@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 윤서의 깃블로그
+tagline: git blog 작성
 email: lysfox01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
