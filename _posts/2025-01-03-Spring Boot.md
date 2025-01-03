@@ -13,7 +13,7 @@ tags: "웹개발"
 - Spring Boot Extension Pack, Lombok, Mybatis, XML, Gradle, Spring Boot Developer Extension Pack, thymeleaf
 
 3. 스프링 부트 대시보드 외부 브라우저 설정
-   ![alt text]({FA61B840-E7D8-40F7-A6A7-08C4FD53CD1B}.png)
+   ![alt text](/img/외부브라우저.png)
 
 # 프레임워크(Framework)란?
 
